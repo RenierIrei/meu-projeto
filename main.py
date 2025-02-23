@@ -1,0 +1,6 @@
+print("Sistema de cadastro")
+nome = input("Escreva seu nome:\n")
+print(f"Olá {nome}, seja muito bem vindo a nossa plataforma.")
+print("Gostaria de mais infomações sobre digite um número referente a sua dúvida.")
+print("1- Como faço para me inscrever no programa?")
+print("2- Como realizo o pagamento?")
